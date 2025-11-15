@@ -24,7 +24,7 @@ O arquivo da planilha com as respostas se encontra neste repositório na pasta d
 
 ---
 
-# 🧭 2. Grafo de Fluxo (CFG – Control Flow Graph)
+# 🧭 2.Notação de Grafo de Fluxo
 
 O grafo foi montado com 11 nós, representando cada bloco lógico do método analisado.
 
