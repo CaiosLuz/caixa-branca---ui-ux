@@ -24,7 +24,7 @@ public class User {
     	Connection conn = null;
     	try {
     		Class.forName("com.mysql.cj.jdbc.Driver");
-    		String url = "jdbc:mysql://127.0.0.1/test?user=root&password=1234";
+    		String url = "jdbc:mysql://127.0.0.1/testw?user=root&password=1234";
     		conn = DriverManager.getConnection(url);
     	} catch (Exception e) {
     		System.out.println("Erro ao conectar: " + e.getMessage());
@@ -71,7 +71,7 @@ public class User {
      */
     public static void main(String[] args) {
     	User user = new User();
-    	boolean existe = user.verificarUsuario("caio", "1234");
+    	boolean existe = user.verificarUsuario("caioss", "1234");
     	System.out.println("Usuário encontrado? " + existe);
     	if (existe) {
     		System.out.println("Login efetuado com sucesso!");
