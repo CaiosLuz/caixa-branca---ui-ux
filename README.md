@@ -28,7 +28,8 @@ O arquivo da planilha com as respostas se encontra neste repositório na pasta d
 
 O grafo foi montado com 11 nós, representando cada bloco lógico do método analisado.
 
-<img width="300" height="400" alt="grafo drawio" src="https://github.com/user-attachments/assets/0784cec6-7bbb-451f-9600-dd3c97483d63" />
+<img width="968" height="1924" alt="grafo-fluxo" src="https://github.com/user-attachments/assets/bdb2d749-edcb-40d9-9064-e3116fa9eaa7" />
+
 
 > A imagem do grafo está no repositório em `/doc/grafo_fluxo.png`.
 
