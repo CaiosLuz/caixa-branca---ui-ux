@@ -20,11 +20,11 @@ Todas essas etapas estão detalhadas nas seções abaixo.
 
 <img width="859" height="424" alt="image" src="https://github.com/user-attachments/assets/641b2a1d-2fcf-4604-aa15-2b53dc191108" />
 
-O arquivo da planilha com as respostas se encontra neste repositório na pasta docs `/doc/teste-caixa-branca.xls`.
+O arquivo da planilha com as respostas se encontra neste repositório na pasta docs `/doc/teste-caixa-branca.xlsx`.
 
 ---
 
-# 🧭 2. Grafo de Fluxo (CFG – Control Flow Graph)
+# 🧭 2.Notação de Grafo de Fluxo
 
 O grafo foi montado com 11 nós, representando cada bloco lógico do método analisado.
 
